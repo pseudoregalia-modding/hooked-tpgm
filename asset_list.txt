@@ -1,0 +1,2 @@
+Blueprints/GameData/BP_ThirdPersonGameMode
+Blueprints/GameData/BP_ThirdPersonGameMode_Original < Blueprints/GameData/BP_ThirdPersonGameMode
